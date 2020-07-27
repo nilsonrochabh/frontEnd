@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependency>
+	<groupId>jakarta.servlet.jsp.jstl</groupId>
+	<artifactId>jakarta.servlet.jsp.jstl-api</artifactId>
+	<version>1.2.7</version>
+
+</dependency>
